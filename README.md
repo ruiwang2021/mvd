@@ -1,4 +1,8 @@
 # Masked Video Distillation
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-video-distillation-rethinking-masked/action-recognition-in-videos-on-something)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something?p=masked-video-distillation-rethinking-masked)<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/masked-video-distillation-rethinking-masked/action-recognition-on-ava-v2-2)](https://paperswithcode.com/sota/action-recognition-on-ava-v2-2?p=masked-video-distillation-rethinking-masked)
+
 Code for "[**Masked Video Distillation: Rethinking Masked Feature Modeling for Self-supervised Video Representation Learning**](https://arxiv.org/abs/2212.04500)" is coming soon!
 
 ## News
