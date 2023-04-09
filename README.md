@@ -12,6 +12,7 @@ Official PyTorch implementation of "[**Masked Video Distillation: Rethinking Mas
 ## News
 
 **[2023.4.9]** Code of MVD is available now! Pretrained models will be released soon. 
+
 **[2023.2.28]** MVD is accepted by **CVPR 2023**.
 
 ## Main Results
