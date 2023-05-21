@@ -11,7 +11,9 @@ Official PyTorch implementation of "[**Masked Video Distillation: Rethinking Mas
 
 ## News
 
-**[2023.4.9]** Code of MVD is available now! Pretrained models will be released soon. 
+**[2023.5.21]** Pretrained models have been released in [MODEL_ZOO.md](MODEL_ZOO.md). 
+
+**[2023.4.9]** Code of MVD is available now!
 
 **[2023.2.28]** MVD is accepted by **CVPR 2023**.
 
@@ -79,7 +81,7 @@ The fine-tuning instruction is in [FINETUNE.md](FINETUNE.md).
 
 ## Model Zoo
 
-We will provide pre-trained and fine-tuned models in [MODEL_ZOO.md](MODEL_ZOO.md) within days.
+We provide pre-trained models in [MODEL_ZOO.md](MODEL_ZOO.md).
 
 ## Acknowledgements
 
